@@ -13,7 +13,7 @@ export const Hero = () => {
 
 Outside of work, I enjoy diving into side projects, exploring open-source code on GitHub, and keeping up with the latest trends in web development. Problem-solving and building things from scratch is what keeps me excited every day. 
         </p>
-        <a href="pranambande19@gmail.com" className={styles.contactBtn}>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranambande19@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
