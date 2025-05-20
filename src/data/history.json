@@ -1,0 +1,34 @@
+[
+   
+  {
+    "role": "Intern",
+    "organisation": "COJAG Smart Technology Pvt. Ltd.",
+    "startDate": "Jan, 2025",
+    "endDate": "Jul, 2025",
+    "experiences": [
+      "Developed full-stack web applications with UI design, API integration, and deployment"
+    ],
+    "imageSrc": "history/cojag.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "Prodigy InfoTech",
+    "startDate": "Jan, 2024",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Built responsive websites and web apps like Stopwatch and Tic-Tac-Toe"
+    ],
+    "imageSrc": "history/prodigy.jpeg"
+  },
+  {
+    "role": "C++ Programming Trainee",
+    "organisation": "Unspecified",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Completed C++ programming training",
+      "Learned fundamentals and applied logic building techniques"
+    ],
+    "imageSrc": "history/codsoft.jpeg"
+  }
+]
