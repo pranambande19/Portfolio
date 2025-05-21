@@ -2,7 +2,7 @@
   {
     "title": "Todolist",
     "imageSrc": "projects/todolist.jpg",
-    "description": "A simple React-based To-Do List app with add, edit, and delete task functionality.",
+    "description": "A simple React-based To-Do List app with add, edit, and delete task functionality. ",
     "skills": ["React", "Express", "Node"],
     "demo": "https://todolist-tan-gamma.vercel.app/",
     "source": "https://github.com/pranambande19/Todolist"
@@ -10,13 +10,13 @@
   {
     "title": "ecommerce-site",
     "imageSrc": "projects/jk.jpg",
-    "description": "A responsive React-based eCommerce website with multiple pages like Home, Services, Contact, Profile, and About Us.",
+    "description": "A responsive React-based eCommerce website with multiple pages like Home, Services, Contact, Profile, and About Us. ",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://jugaadkart.netlify.app/",
     "source": "https://github.com/pranambande19/demo-shopingsite"
   },
   {
-    "title": "Demo Company-website",
+    "title": "Company-website Template",
     "imageSrc": "projects/ds.jpg",
     "description": "A responsive React-based demo company website with navigation between Home, Services, Contact, Profile, and About Us pages.",
     "skills": ["React", "Express", "Node"],

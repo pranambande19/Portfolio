@@ -50,6 +50,15 @@
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+.contactBtn:hover {
+  background-color: var(--color-secondary); /* or a lighter/darker version of --color-primary */
+  color: white;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+
 .heroImg {
   width: 40%;
   z-index: 1;
